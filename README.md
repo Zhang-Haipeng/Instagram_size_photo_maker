@@ -8,6 +8,6 @@ I'm sure there are apps to make that happen, but I couldn't find it. So I decide
 2. In the program, change the **pic_name = "pics/your_photo's_name.jpg"**.
 3. Run the program. And the output photos will be in "output" folder. (There are **three** output photos - xx_left, xx_right, xx_centered.)
 
-# Questions
+# Issues
 1. The output photos are much smaller in size than expected. Although the quality looks just good. 
 2. More to be added
