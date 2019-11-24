@@ -11,3 +11,6 @@ I'm sure there are apps to make that happen, but I couldn't find it. So I decide
 # Issues
 1. The output photos are much smaller in size than expected. Although the quality looks just good. (?)
 2. More to be added
+
+# Update blog
+* 2019-11-23: Night photos might need black backgrounds. So I added the choice of background color, which is stored as the `fill_white` variable ('yes' for white, other values for black).
